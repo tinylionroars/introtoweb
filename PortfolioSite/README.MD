@@ -6,7 +6,7 @@ For my midterm & final project I want to make a portfolio website that builds of
       				For both of these an obvious consideration is playing with transparency/color properties of different elements.
       <br><br><br>
       <b>S T R U C T U R E</b> <br>
-			I really care about organization of content, & nicely designed tagging systems are some of my favorite things. I want things to link structurally at specific tagging combinations. If someone wants to find only works at the intersection of say, augmented reality & performance or motion capture & installation <del>&!NOT</del> audio, I want that to be simple. <br>
+			I really care about organization of content, & nicely designed tagging systems are some of my favorite things. I want things to link structurally at specific tagging combinations. If someone wants to find only works at the intersection of say, augmented reality & performance or motion capture & installation &<del>!NOT</del> audio, I want that to be simple. <br>
       			There will also be a menu of categories & a general feed that is sorted by ??? <br>
       			I want there to be sections pulling from different social media feeds to exist ??somewhere?? since b r a n d <br>
       			As well as a section for updates/events since a lot of what I do is performative/live (both virtually & physical--come thru for weird live a/v nonsense on ya nearest social media) <br>
