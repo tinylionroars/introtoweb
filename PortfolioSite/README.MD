@@ -6,7 +6,7 @@ For my midterm & final project I want to make a portfolio website that builds of
       				For both of these an obvious consideration is playing with transparency/color properties of different elements.
       <br><br><br>
       <b>S T R U C T U R E</b> <br>
-			I really care about organization of content, & nicely designed tagging systems are some of my favorite things. I want things to link structurally at specific tagging combinations. If someone wants to find only works at the intersection of say, augmented reality & performance or motion capture & installation <str>&!NOT</str> audio, I want that to be simple. <br>
+			I really care about organization of content, & nicely designed tagging systems are some of my favorite things. I want things to link structurally at specific tagging combinations. If someone wants to find only works at the intersection of say, augmented reality & performance or motion capture & installation <del>&!NOT</del> audio, I want that to be simple. <br>
       			There will also be a menu of categories & a general feed that is sorted by ??? <br>
       			I want there to be sections pulling from different social media feeds to exist ??somewhere?? since b r a n d <br>
       			As well as a section for updates/events since a lot of what I do is performative/live (both virtually & physical--come thru for weird live a/v nonsense on ya nearest social media) <br>
@@ -20,4 +20,4 @@ For my midterm & final project I want to make a portfolio website that builds of
       <br><br><br>
       Since I intend to work on this for my Final as well, I am listing goals that are more stretch than the scope of what I can reasonably due for the midterm, so we'll see what I can & cannot do in that time, shwooooooop. I think my focuses for the midterm will be just to create a home page with a general feed/about as well as two-three content specific pages, depending on if I am going to have individual project pages link out from content pages or just expand on the same page, with a really basic tagging system, without the crossreferenced searching.
       <br><br><br>
-      (tagging examples: tumblr redirects--does not have crossreferencing, newegg/amazon/zillow<str>--no !NOT---can circumvent by checking multiples in a category---doesn't apply to my model</str))
+      (tagging examples: tumblr redirects--does not have crossreferencing, newegg/amazon/zillow<del>--no !NOT---can circumvent by checking multiples in a category---doesn't apply to my model</del>)
