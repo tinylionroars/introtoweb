@@ -21,3 +21,10 @@ For my midterm & final project I want to make a portfolio website that builds of
       Since I intend to work on this for my Final as well, I am listing goals that are more stretch than the scope of what I can reasonably due for the midterm, so we'll see what I can & cannot do in that time, shwooooooop. I think my focuses for the midterm will be just to create a home page with a general feed/about as well as two-three content specific pages, depending on if I am going to have individual project pages link out from content pages or just expand on the same page, with a really basic tagging system, without the crossreferenced searching.
       <br><br><br>
       (tagging examples: tumblr redirects--does not have crossreferencing, newegg/amazon/zillow<del>--no !NOT---can circumvent by checking multiples in a category---doesn't apply to my model</del>)
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+	<b>NOTES</>
+	<br><br><br>
+	ICONS (for social media/external links, other inline icons)
+	<br>ICON list: https://www.w3schools.com/icons/icons_reference.asp
+	<br>ICON reference: https://www.w3schools.com/css/css_icons.asp
+	<br><br><br>
