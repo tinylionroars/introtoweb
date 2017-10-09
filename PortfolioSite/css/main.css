@@ -1,10 +1,29 @@
+/*Header & footer stuff https://www.w3schools.com/css/css_website_layout.asp */
+.footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+}
+
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+
+/*End of header & footer stuff*/
+
+/*Body https://www.w3schools.com/css/css_background.asp */
+
 body {
     background-image: #ffffff url("fuck.jpg") no-repeat fixed right top; /*make color change with page position to tint image?*/
-		/*https://www.w3schools.com/css/css_background.asp*/
+		
 		
 		
     
 }
+
+/*End of body stuff*/
 
 h1 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
@@ -288,18 +307,3 @@ input[type=text]:focus {
     width: 100%;
 }
 /*End of search bar stuff*/
-
-/*Header & footer stuff https://www.w3schools.com/css/css_website_layout.asp */
-.footer {
-    background-color: #F1F1F1;
-    text-align: center;
-    padding: 10px;
-}
-
-.header {
-    background-color: #F1F1F1;
-    text-align: center;
-    padding: 20px;
-}
-
-/*End of header & footer stuff*/
