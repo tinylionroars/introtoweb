@@ -27,6 +27,9 @@ For my midterm & final project I want to make a portfolio website that builds of
 	ICONS (for social media/external links, other inline icons)
 	<br>ICON list: https://www.w3schools.com/icons/icons_reference.asp
 	<br>ICON reference: https://www.w3schools.com/css/css_icons.asp
+	<br><br><br>
+	IFRAME (display webpage within a webpage)
+	<br>IFRAME reference: https://www.w3schools.com/html/html_iframe.asp
 	<br><br><br><br><br>
 	<b>LAYOUT</b>
 	VISIBILITY (for project views in the main content page--tile view->expanded view->its own page?)
