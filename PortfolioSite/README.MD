@@ -22,9 +22,29 @@ For my midterm & final project I want to make a portfolio website that builds of
       <br><br><br>
       (tagging examples: tumblr redirects--does not have crossreferencing, newegg/amazon/zillow<del>--no !NOT---can circumvent by checking multiples in a category---doesn't apply to my model</del>)
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
-	<b>NOTES</>
+	<b>NOTES</b>
 	<br><br><br>
 	ICONS (for social media/external links, other inline icons)
 	<br>ICON list: https://www.w3schools.com/icons/icons_reference.asp
 	<br>ICON reference: https://www.w3schools.com/css/css_icons.asp
+	<br><br><br><br><br>
+	<b>LAYOUT</b>
+	VISIBILITY (for project views in the main content page--tile view->expanded view->its own page?)
+	<br>VISIBILITY reference: https://www.w3schools.com/css/css_display_visibility.asp
+	<br>VISIBILITY--OVERFLOW (content bigger than container) reference: https://www.w3schools.com/css/css_overflow.asp
+	<br><br>
+	POSITIONING (Determine how elements are attached to the page &each other ~sticky~ elmeents)
+	<br>POSITIONING reference: https://www.w3schools.com/css/css_positioning.asp
+	<br><br>
+	FLOATS (Can be used to format entire layout--see example)
+	<br>FLOATS reference: https://www.w3schools.com/css/css_float.asp
+	<br><br>
+	IN LINE BLOCKS (Good for making elements that scale without all the need to clear things)
+	<br>IN LINE reference: https://www.w3schools.com/css/css_inline-block.asp
+	<br><br>
+	WIDTH (use max-width & other properties for mobile compatibility)
+	<br>WIDTH reference 1: https://www.w3schools.com/css/css_max-width.asp
+	<br><br>
+	
 	<br><br><br>
+	
